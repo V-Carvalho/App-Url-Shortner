@@ -1,0 +1,36 @@
+name: urlshortner
+description: Url Shortner
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.11.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^4.0.6
+  rx_notifier: ^1.1.0
+  url_launcher: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/people.png
+
+  fonts:
+    - family: URL
+      fonts:
+        - asset: assets/fonts/URL.ttf
+
