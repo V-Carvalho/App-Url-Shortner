@@ -1,16 +1,24 @@
-# urlshortner
+📝 Descrição:
+  * Aplicação desenvolvida em Flutter para consumir APi que encurta url's.
+  * API desenvolvida em Python e hospedada na AWS.
 
-Url Shortner
+📚 Funcionalidades:
+  * Encurtar longas url's
 
-## Getting Started
+🔧 Tecnologias utilizadas
+* Flutter
 
-This project is a starting point for a Flutter application.
+🚀 Rodando o projeto:
+  * Para rodar o repositório é necessário clonar o mesmo.
+  * Instalar o flutter (https://docs.flutter.dev/get-started/install).
+  * Com tudo instalado corretamente rodar via linha de comando flutter run -d chrome (Web) ou flutter run (Android)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔜 Implementação futura:
+  * Sistema de login.
+  
+🎯 Status do projeto:
+  * 80% concluído.
+  
+🌐 Link da lplicaç:
+* WEB: https://app-url-shortner.web.app
+* Mobile: Em breve!
