@@ -17,7 +17,7 @@
   * Sistema de login.
   
 🎯 Status do projeto:
-  * 80% concluído.
+  * 90% concluído.
   
 🌐 Link da aplicação:
 * WEB: https://app-url-shortner.web.app
