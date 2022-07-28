@@ -19,6 +19,6 @@
 🎯 Status do projeto:
   * 80% concluído.
   
-🌐 Link da lplicaç:
+🌐 Link da aplicação:
 * WEB: https://app-url-shortner.web.app
 * Mobile: Em breve!
